@@ -10,4 +10,18 @@
     --green800: #166534;
     --green900: #14532d;
   }
+
+  :root {
+    --green50: #f0fff4;
+    --green100: #d9f7bf;
+    --green200: #a3e9a4;
+    --green300: #72d572;
+    --green400: #42bd41;
+    --green500: #2baf2b;
+    --green600: #259b24;
+    --green700: #1d8e1d;
+    --green800: #1b5e20;
+    --green900: #0d5302;
+  }
+  
   
